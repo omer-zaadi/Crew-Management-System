@@ -31,7 +31,7 @@ Follow these steps to get the system up and running on your local machine using 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/omer-zaadi/crew-management.git
+    git clone https://github.com/omer-zaadi/Crew-Management-System.git
     cd crew-management
 
 
