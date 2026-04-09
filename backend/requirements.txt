@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mysql-connector-python
+pydantic[email]
+PyJWT
+anthropic
+python-dotenv
+passlib
+bcrypt==4.0.1
